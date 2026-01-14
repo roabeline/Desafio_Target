@@ -1,1 +1,1 @@
-# Desafio_Target
+Repositório de exercícios em Python focados em lógica de programação, manipulação de dados e resolução de problemas comuns em testes técnicos. Inclui cálculos matemáticos, análise de dados em JSON, uso de funções, laços de repetição e tratamento de exceções, desenvolvidos em ambiente Google Colab.
